@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>FAMOUS FOOD</title>
+</head>
+<body bgcolor="skyblue">
+<center><h1>FAMOUS FOOD</h1><hr>
+<img src="india map3.jpg" user map="#hotspot" ismap="ismap"></center>
+<map name="hotspot" id="hotspot">
+<area href='chennai.html' shape='circle' coords='171,560,40' title="chennai famous food"/>
+<area href='kerala.html' shape='circle' coords='139,307,40' title="kerala famous food"/>
+<area href='mumbai.html' shape='circle' coords='132,197,40' title="mumbai famous food"/>
+<area href='punjab.html' shape='circle' coords='397,182,40' title="punjab famous food"/>
+</map>
+</body>
+</html>
